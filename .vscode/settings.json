@@ -1,2 +1,4 @@
 {
+    "debug.internalConsoleOptions": "openOnSessionStart",
+    "terminal.explorerKind": "external"
 }
