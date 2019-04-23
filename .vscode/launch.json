@@ -6,10 +6,15 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - attack",
+            "request": "launch",
+            "mainClass": "attack"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - myfirst",
             "request": "launch",
-            "mainClass": "myfirst",
-            "projectName": "My_JAVA_1069e584"
+            "mainClass": "danmege"
         },
         {
             "type": "java",
