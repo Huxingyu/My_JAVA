@@ -6,34 +6,10 @@
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - attack",
-            "request": "launch",
-            "mainClass": "attack"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - myfirst",
-            "request": "launch",
-            "mainClass": "danmege"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - args",
-            "request": "launch",
-            "mainClass": "args",
-            "projectName": "My_JAVA_1069e584"
-        },
-        {
-            "type": "java",
-            "name": "Debug (Launch)",
-            "request": "launch",
-            "mainClass": "Main"
-        },
-        {
-            "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
-            "mainClass": "${file}"
+            "mainClass": "${file}",
+            "console": "externalTerminal"
         }
     ]
 }
